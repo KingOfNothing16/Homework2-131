@@ -6,6 +6,7 @@
 class vector131
 {
 public:
+ // constructer for main function
    vector131();
 private:
  
